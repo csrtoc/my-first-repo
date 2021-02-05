@@ -1,28 +1,25 @@
-# This is a large heading
+# César Torres
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Quito, in the state of Pichincha, in Ecuador.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Never Let Me Go* by Kazuo Ishiguro
+- *A Brief History of Time* by Stephen Hawking
+- *1984* by George Orwell
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Luces del Norte in Tela.
+2. Baleadas Kennedy in Tegucigalpa.
+3. Madam Tusan in Lima.
+
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/csrtoc).
